@@ -96,3 +96,15 @@ header nav a:hover{
 .botao i{
     margin-right: 8px;
 }
+
+/* Carousel */
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrousel-filmes{
+    margin-top: 5px;
+}
